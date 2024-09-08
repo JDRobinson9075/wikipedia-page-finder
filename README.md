@@ -5,7 +5,7 @@ This is a very simple example of using an API implementation ('wikipediaapi' and
 This code requires:
 - 'wikipediaapi'
 to be installed. You can do this via:
-- 'pip install wikipediaapi'.
+- 'pip install wikipedia-api'.
 
 # Usage
 All you need to do is run:
